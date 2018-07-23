@@ -1,0 +1,11 @@
+D:\Source\Personal\Gossip\Gossip.WebApi\bin\Debug\netcoreapp2.0\Gossip.WebApi.deps.json
+D:\Source\Personal\Gossip\Gossip.WebApi\bin\Debug\netcoreapp2.0\Gossip.WebApi.runtimeconfig.json
+D:\Source\Personal\Gossip\Gossip.WebApi\bin\Debug\netcoreapp2.0\Gossip.WebApi.runtimeconfig.dev.json
+D:\Source\Personal\Gossip\Gossip.WebApi\bin\Debug\netcoreapp2.0\Gossip.WebApi.dll
+D:\Source\Personal\Gossip\Gossip.WebApi\obj\Debug\netcoreapp2.0\Gossip.WebApi.csprojAssemblyReference.cache
+D:\Source\Personal\Gossip\Gossip.WebApi\obj\Debug\netcoreapp2.0\Gossip.WebApi.csproj.CoreCompileInputs.cache
+D:\Source\Personal\Gossip\Gossip.WebApi\obj\Debug\netcoreapp2.0\Gossip.WebApi.AssemblyInfoInputs.cache
+D:\Source\Personal\Gossip\Gossip.WebApi\obj\Debug\netcoreapp2.0\Gossip.WebApi.AssemblyInfo.cs
+D:\Source\Personal\Gossip\Gossip.WebApi\bin\Debug\netcoreapp2.0\Gossip.WebApi.pdb
+D:\Source\Personal\Gossip\Gossip.WebApi\obj\Debug\netcoreapp2.0\Gossip.WebApi.dll
+D:\Source\Personal\Gossip\Gossip.WebApi\obj\Debug\netcoreapp2.0\Gossip.WebApi.pdb
